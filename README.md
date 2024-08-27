@@ -12,7 +12,8 @@ Overview
 The Weather Forecast Web Project is a responsive web application that allows users to check the current weather and forecast for different locations. It integrates with a weather API to provide accurate and up-to-date weather information.
 
 OUTPUT:
-![Uploading Screenshot 2024-08-24 212815.png…]()
+
+![Screenshot 2024-08-24 212815](https://github.com/user-attachments/assets/7d961748-a3e7-4ff1-9134-be7c19cec64f)
 
 
 Features
